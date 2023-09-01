@@ -1,4 +1,4 @@
-# Oasis Task Comany
+# Oasis Task 
 ## Technology
 using .NET 7.0 Core API, Entity FrameWork Core, JWT Authentication & Authorization and Identity.
 ## Feature
